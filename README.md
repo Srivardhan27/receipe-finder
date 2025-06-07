@@ -1,21 +1,20 @@
-🍽️ Recipe Finder Web App
+Recipe Finder Web App
+This is a simple and responsive web application that allows users to search for recipes by keyword or get a random recipe. It uses TheMealDB API to fetch and display meal information, including ingredients, instructions, categories, origin, and video links.
 
+Features
+Search for recipes by name or ingredient.
 
-🚀 Features
-🔍 Search Recipes: Enter any ingredient or keyword to find matching recipes.
+Get a random recipe with one click.
 
-🎲 Random Recipe Generator: Click a button to get a surprise meal idea.
+View detailed recipe information in a modal popup.
 
-📋 Recipe Details Modal: View ingredients, instructions, origin, category, video links, and more in a beautifully styled popup.
+Responsive and modern user interface using HTML, CSS, and JavaScript.
 
-💡 Clean & Responsive UI: Modern, mobile-friendly design using pure HTML, CSS, and JavaScript.
+Technologies Used
+HTML5
 
-🛠️ Tech Stack
-HTML5 – For structure
+CSS
 
-CSS – Responsive styling with custom variables and modern layout
+JavaScript 
 
-JavaScript – API interaction and dynamic DOM updates
-
-TheMealDB API – Free open recipe API for fetching meal data
-
+TheMealDB API
