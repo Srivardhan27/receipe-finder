@@ -1,1 +1,1 @@
-# receipe-finder
+🍽️ Recipe Finder Web App
